@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sillycat2.github.io</id>
     <title>Republic of Amazonia</title>
-    <updated>2021-08-01T17:55:43.627Z</updated>
+    <updated>2021-08-01T17:57:14.305Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://sillycat2.github.io"/>
     <link rel="self" href="https://sillycat2.github.io/atom.xml"/>
@@ -10,6 +10,22 @@
     <logo>https://sillycat2.github.io/images/avatar.png</logo>
     <icon>https://sillycat2.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Republic of Amazonia</rights>
+    <entry>
+        <title type="html"><![CDATA[新法定货币：萨塔玛纳简介]]></title>
+        <id>https://sillycat2.github.io/post/8aT4CVR-l/</id>
+        <link href="https://sillycat2.github.io/post/8aT4CVR-l/">
+        </link>
+        <updated>2021-08-01T12:56:00.000Z</updated>
+        <content type="html"><![CDATA[<p>萨塔玛纳（Satamana）是阿玛宗的法定货币，名称来源于犍陀罗王国流通货币शतमान（转写：satamana），原意为“一百个Māna<sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></sup>”。符号为𝕊。辅币单位玛纳特（Manat）面值为0.01萨塔玛纳，即100个玛纳特换一个萨塔玛纳，名称来源于俄文词汇“монета”（转写：moneta），原意为硬币。此外“马纳特”还是土库曼斯坦和阿塞拜疆的流通货币的名称。</p>
+<hr class="footnotes-sep">
+<section class="footnotes">
+<ol class="footnotes-list">
+<li id="fn1" class="footnote-item"><p>古印度重量单位 <a href="#fnref1" class="footnote-backref">↩︎</a></p>
+</li>
+</ol>
+</section>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[阿玛宗共和国的领土面积有多大？]]></title>
         <id>https://sillycat2.github.io/post/area/</id>

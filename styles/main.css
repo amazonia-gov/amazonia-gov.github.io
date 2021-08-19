@@ -1920,3 +1920,8 @@ code::-webkit-scrollbar-thumb:hover {
           background-color: #f3f0ff!important;
         }
          
+      .gt-c-content-color-first
+{
+text-overflow:ellipsis;overflow:hidden;
+}
+    

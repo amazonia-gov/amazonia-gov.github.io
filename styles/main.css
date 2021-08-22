@@ -1920,8 +1920,11 @@ code::-webkit-scrollbar-thumb:hover {
           background-color: #f3f0ff!important;
         }
          
-      .gt-c-content-color-first
+      .navbar .navbar-brand .site-name
 {
-text-overflow:ellipsis;overflow:hidden;
+font-family:Prata,georgia,"Times New Roman",serif;
+font-style:normal;
+font-size:20px;
+font-weight:normal;
 }
     

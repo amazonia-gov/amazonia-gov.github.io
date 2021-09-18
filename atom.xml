@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sillycat2.github.io/amazonia/</id>
-    <title>Republic of Amazonia</title>
-    <updated>2021-09-07T12:48:40.679Z</updated>
+    <title>MSRA</title>
+    <updated>2021-09-18T17:47:12.005Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://sillycat2.github.io/amazonia/"/>
     <link rel="self" href="https://sillycat2.github.io/amazonia/atom.xml"/>
-    <subtitle>Goverment of the Republic of Amazonia</subtitle>
+    <subtitle>Most Serene Republic of Amazonia</subtitle>
     <logo>https://sillycat2.github.io/amazonia/images/avatar.png</logo>
     <icon>https://sillycat2.github.io/amazonia/favicon.ico</icon>
-    <rights>All rights reserved 2021, Republic of Amazonia</rights>
+    <rights>All rights reserved 2021, MSRA</rights>
     <entry>
         <title type="html"><![CDATA[Amazonia signed and passed the Supplementary Convention on the Abolition of Slavery.]]></title>
         <id>https://sillycat2.github.io/amazonia/post/yTWGosfdp/</id>

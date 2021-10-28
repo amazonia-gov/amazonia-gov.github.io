@@ -1827,7 +1827,7 @@ code::-webkit-scrollbar-thumb:hover {
         }
         
         .gt-bg-theme-color-second {
-          background: #f3f0ff!important;
+          background: #e6fcf5!important;
         }
         
         .gt-bg-content-color-first {
@@ -1851,7 +1851,7 @@ code::-webkit-scrollbar-thumb:hover {
         }
         
         .gt-c-theme-color-second {
-          color: #f3f0ff!important;
+          color: #e6fcf5!important;
         }
         
         .gt-c-content-color-first {
@@ -1917,14 +1917,16 @@ code::-webkit-scrollbar-thumb:hover {
         
         .search-input {
           color: #5f6169!important;
-          background-color: #f3f0ff!important;
+          background-color: #e6fcf5!important;
         }
          
-      .navbar .navbar-brand .site-name
-{
+      .navbar .navbar-brand .site-name {
 font-family:Prata,georgia,"Times New Roman",serif;
 font-style:normal;
-font-size:10px;
 font-weight:normal;
+}
+
+h2 {
+font-family: Georgia,"Times New Roman", serif;
 }
     

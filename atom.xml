@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sillycat2.github.io/amazonia/</id>
     <title>MSRA</title>
-    <updated>2021-10-14T17:57:46.695Z</updated>
+    <updated>2021-10-28T15:03:09.685Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://sillycat2.github.io/amazonia/"/>
     <link rel="self" href="https://sillycat2.github.io/amazonia/atom.xml"/>
@@ -10,6 +10,18 @@
     <logo>https://sillycat2.github.io/amazonia/images/avatar.png</logo>
     <icon>https://sillycat2.github.io/amazonia/favicon.ico</icon>
     <rights>All rights reserved 2021, MSRA</rights>
+    <entry>
+        <title type="html"><![CDATA[Amazonia signed the Wrythe Convention]]></title>
+        <id>https://sillycat2.github.io/amazonia/post/9V_tepxFr/</id>
+        <link href="https://sillycat2.github.io/amazonia/post/9V_tepxFr/">
+        </link>
+        <updated>2021-10-28T04:56:55.000Z</updated>
+        <content type="html"><![CDATA[<p>On 27 October 2021, the President signed the Wrythe Convention in Athens, Greece on behalf of the Amazonian government. it's an important intermicronational convention, concluded and opened for signature on 15 September 2018. it condemns sockpuppeting, identity theft, and false claims within micronationalism.</p>
+<figure data-type="image" tabindex="1"><img src="https://sillycat2.github.io/amazonia//post-images/1635433299015.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="https://sillycat2.github.io/amazonia//post-images/1635433309200.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="3"><img src="https://sillycat2.github.io/amazonia//post-images/1635433315555.jpg" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Amazonia signed and passed the Supplementary Convention on the Abolition of Slavery.]]></title>
         <id>https://sillycat2.github.io/amazonia/post/yTWGosfdp/</id>

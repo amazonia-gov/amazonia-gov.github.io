@@ -1928,5 +1928,10 @@ font-weight:normal;
 
 h2 {
 font-family: Georgia,"Times New Roman", serif;
+font-weight: bold;
+}
+
+p {
+font-family: Georgia,"Times New Roman", serif;
 }
     

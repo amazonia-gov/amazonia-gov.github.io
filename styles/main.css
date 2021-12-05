@@ -1827,7 +1827,7 @@ code::-webkit-scrollbar-thumb:hover {
         }
         
         .gt-bg-theme-color-second {
-          background: #fffaf4!important;
+          background: #ececea!important;
         }
         
         .gt-bg-content-color-first {
@@ -1835,15 +1835,15 @@ code::-webkit-scrollbar-thumb:hover {
         }
         
         .gt-bg-content-color-second {
-          background: #96a48b!important;
+          background: #7a7281!important;
         }
         
         .gt-bg-accent-color-first {
-          background: #f8ebd8!important;
+          background: #939391!important;
         }
         
         .gt-bg-accent-color-second {
-          background: RGBA(248,235,216,0.2)!important;
+          background: RGBA(147,147,145,0.2)!important;
         }
         
         .gt-c-theme-color-first {
@@ -1851,7 +1851,7 @@ code::-webkit-scrollbar-thumb:hover {
         }
         
         .gt-c-theme-color-second {
-          color: #fffaf4!important;
+          color: #ececea!important;
         }
         
         .gt-c-content-color-first {
@@ -1859,15 +1859,15 @@ code::-webkit-scrollbar-thumb:hover {
         }
         
         .gt-c-content-color-second {
-          color: #96a48b!important;
+          color: #7a7281!important;
         }
         
         .gt-c-accent-color-first {
-          color: #f8ebd8!important;
+          color: #939391!important;
         }
         
         .gt-c-accent-color-second {
-          color: RGBA(248,235,216,0.2)!important;
+          color: RGBA(147,147,145,0.2)!important;
         }
         
         body {
@@ -1875,49 +1875,49 @@ code::-webkit-scrollbar-thumb:hover {
         }
         
         a {
-          color: #f8ebd8!important;
+          color: #939391!important;
         }
         
         .post-content h1 {
           display: inline-block;
           color: #5f6169!important;
           position: relative!important;
-          background: linear-gradient(180deg, transparent 75%, RGBA(248,235,216,0.4) 0)!important;
+          background: linear-gradient(180deg, transparent 75%, RGBA(147,147,145,0.4) 0)!important;
         }
         
         .post-content h2 {
           display: inline-block;
           color: #5f6169!important;
           position: relative!important;
-          background: linear-gradient(180deg, transparent 75%, RGBA(248,235,216,0.4) 0)!important;
+          background: linear-gradient(180deg, transparent 75%, RGBA(147,147,145,0.4) 0)!important;
         }
         
         .gt-a-link {
           color: #5f6169!important;
           position: relative!important;
-          background: linear-gradient(180deg, transparent 75%, RGBA(248,235,216,0.4) 0)!important;
+          background: linear-gradient(180deg, transparent 75%, RGBA(147,147,145,0.4) 0)!important;
         }
         
         .gt-post-content a {
-          color: #f8ebd8!important;
+          color: #939391!important;
         }
         
         .gt-post-content blockquote {
-          background: RGBA(248,235,216,0.2)!important;
-          border-color: #f8ebd8!important;
+          background: RGBA(147,147,145,0.2)!important;
+          border-color: #939391!important;
         }
         
         .gt-post-content code {
-          background: RGBA(248,235,216,0.2)!important;
+          background: RGBA(147,147,145,0.2)!important;
         }
         
         input::placeholder {
-          color: #96a48b!important;
+          color: #7a7281!important;
         }
         
         .search-input {
           color: #5f6169!important;
-          background-color: #fffaf4!important;
+          background-color: #ececea!important;
         }
          
       .navbar .navbar-brand .site-name {

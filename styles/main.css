@@ -643,6 +643,11 @@ ul li {
     background-position: center;
   }
 }
+.banner {
+  align: center;
+  display: block;
+  width: 100%;
+}
 .post-container {
   display: flex;
   flex-direction: column;

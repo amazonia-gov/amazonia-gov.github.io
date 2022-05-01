@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://amazonia-gov.github.io</id>
     <title>MSRY</title>
-    <updated>2022-03-11T12:27:13.926Z</updated>
+    <updated>2022-05-01T15:53:37.722Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://amazonia-gov.github.io"/>
     <link rel="self" href="https://amazonia-gov.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://amazonia-gov.github.io/images/avatar.png</logo>
     <icon>https://amazonia-gov.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, MSRY</rights>
+    <entry>
+        <title type="html"><![CDATA[The Princess abolished the Constitution]]></title>
+        <id>https://amazonia-gov.github.io/post/cziElT7iT/</id>
+        <link href="https://amazonia-gov.github.io/post/cziElT7iT/">
+        </link>
+        <updated>2022-05-01T05:47:58.000Z</updated>
+        <content type="html"><![CDATA[<p>On 29 April, the princess officially announced the abrogation of the constitution, which made Yusienia an autocratic republic. The princess now have all the political powers, and she said that anyone who resisted would be deported or suppressed by force.</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Long live the Princess! First Constitutional Amendment passed by unanimous vote]]></title>
         <id>https://amazonia-gov.github.io/post/AAA-ljHdM/</id>

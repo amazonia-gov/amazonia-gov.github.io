@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://amazonia-gov.github.io</id>
-    <title>MSRY</title>
-    <updated>2022-07-08T13:33:10.524Z</updated>
+    <title>Sovereign Yusienia</title>
+    <updated>2022-07-15T11:58:53.708Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://amazonia-gov.github.io"/>
     <link rel="self" href="https://amazonia-gov.github.io/atom.xml"/>
-    <subtitle>Most Serene Republic of Amazonia</subtitle>
+    <subtitle>Sovereign Yusienia official website</subtitle>
     <logo>https://amazonia-gov.github.io/images/avatar.png</logo>
     <icon>https://amazonia-gov.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2022, MSRY</rights>
+    <rights>All rights reserved 2022, Sovereign Yusienia</rights>
     <entry>
         <title type="html"><![CDATA[Yusienia adopted new national anthem "Oh Yusienia, land beloved and graceful", and the old anthem will become official traditional anthem]]></title>
         <id>https://amazonia-gov.github.io/post/vuFNvcIpP/</id>
